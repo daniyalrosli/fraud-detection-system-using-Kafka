@@ -1,0 +1,32 @@
+# Real-Time Fraud Detection System
+# Python 3.10+ required
+
+# ====================
+# Data Processing
+# ====================
+pandas==2.2.0
+numpy==1.26.3
+
+# ====================
+# Machine Learning
+# ====================
+scikit-learn==1.4.0
+xgboost==2.0.3
+imbalanced-learn==0.12.0
+joblib==1.3.2
+
+# ====================
+# Kafka Integration
+# ====================
+kafka-python==2.0.2
+
+# ====================
+# Dashboard
+# ====================
+streamlit==1.31.0
+plotly==5.18.0
+
+# ====================
+# Utilities
+# ====================
+python-dotenv==1.0.1
